@@ -2,7 +2,7 @@
 name: Hibajelentés
 about: Készíts hibajelentést, hogy minél előbb javíthassuk az általad észlelt hibát
 title: "[HIBA]"
-labels: bug
+labels: hiba
 assignees: ''
 
 ---
