@@ -1,8 +1,8 @@
 ---
 name: Hibajelentés
 about: Készíts hibajelentést, hogy minél előbb javíthassuk az általad észlelt hibát
-title: ''
-labels: ''
+title: "[HIBA]"
+labels: bug
 assignees: ''
 
 ---
@@ -30,8 +30,4 @@ Ha lehetséges, adj hozzá képernyőképeket is a probléma magyarázatához.
 **Mobileszköz (kérlek add meg az alábbiakat):**
  - Eszköz: [pl. iPhone 13, Xiaomi 11T]
  - OS: [pl. iOS 15, Android 12]
- - Böngésző [pl. Safari, ]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+ - Böngésző [pl. Chrome, Safari, Stority App]
